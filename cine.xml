@@ -1,0 +1,13 @@
+
+<cine>
+    <pelicula >
+        <titulo >Mad Max</titulo>
+        <director>George Miller</director>
+        <estreno>15 mayo 2015</estreno>
+        <reparto>
+        <actor>Tom Hardy</actor>
+        <actor>Charlize Theron</actor>
+        </reparto>
+        <descripcion>Perseguido por su turbulento pasado, Max cree que la mejor forma de sobrevivir es ir solo por el mundo </descripcion>
+    </pelicula>
+</cine>
